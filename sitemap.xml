@@ -25,6 +25,9 @@
 <loc>/bibliography/Li2021DeepLV/</loc>
 </url>
 <url>
+<loc>/bibliography/Liao2021LocatePerfReg/</loc>
+</url>
+<url>
 <loc>/bibliography/Li2021StackTrace/</loc>
 </url>
 <url>
@@ -46,7 +49,7 @@
 <loc>/bibliography/LyuAIOpsDataSplitting/</loc>
 </url>
 <url>
-<loc>/bibliography/Liao2021LocatePerfReg/</loc>
+<loc>/bibliography/LiaoDNNPerformance/</loc>
 </url>
 <url>
 <loc>/bibliography/Liao2020LogPerfReg/</loc>
@@ -129,6 +132,10 @@
 <url>
 <loc>/pdf/Liao2020LogPerfReg.pdf</loc>
 <lastmod>2021-01-31T15:35:13-05:00</lastmod>
+</url>
+<url>
+<loc>/pdf/LiaoDNNPerformance.pdf</loc>
+<lastmod>2021-12-19T21:48:19-05:00</lastmod>
 </url>
 <url>
 <loc>/pdf/Locke2021LogAssist.pdf</loc>
