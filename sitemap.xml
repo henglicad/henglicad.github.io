@@ -22,7 +22,7 @@
 <loc>/services/</loc>
 </url>
 <url>
-<loc>/bibliography/LiaoDNNPerformance/</loc>
+<loc>/bibliography/Liao2021DNNPerformance/</loc>
 </url>
 <url>
 <loc>/bibliography/Liao2021LocatePerfReg/</loc>
@@ -134,8 +134,12 @@
 <lastmod>2021-01-31T15:35:13-05:00</lastmod>
 </url>
 <url>
-<loc>/pdf/LiaoDNNPerformance.pdf</loc>
+<loc>/pdf/Liao2021DNNPerformance.pdf</loc>
 <lastmod>2021-12-19T21:48:19-05:00</lastmod>
+</url>
+<url>
+<loc>/pdf/Liao2021LocatePerfReg.pdf</loc>
+<lastmod>2021-12-19T22:22:30-05:00</lastmod>
 </url>
 <url>
 <loc>/pdf/Locke2021LogAssist.pdf</loc>
