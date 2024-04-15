@@ -28,6 +28,9 @@
 <loc>/tutoring/</loc>
 </url>
 <url>
+<loc>/bibliography/Wu2024PostIntention/</loc>
+</url>
+<url>
 <loc>/bibliography/Lyu2024AIOpsUpdate/</loc>
 </url>
 <url>
@@ -290,6 +293,10 @@
 <url>
 <loc>/pdf/Wu2023LogRepresentation.pdf</loc>
 <lastmod>2023-11-29T16:34:18-05:00</lastmod>
+</url>
+<url>
+<loc>/pdf/Wu2024PostIntention.pdf</loc>
+<lastmod>2024-04-15T10:34:55-04:00</lastmod>
 </url>
 <url>
 <loc>/pdf/Yao2020LogCompression.pdf</loc>
